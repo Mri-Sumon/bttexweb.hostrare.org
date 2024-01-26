@@ -1,0 +1,12 @@
+[13-Sep-2023 06:17:30 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/hostrareorg/public_html/bttexweb.hostrare.org/application/resources/views/frontend/home2.blade.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/hostrareorg/public_html/bttexweb.hostrare.org/application/resources/views/frontend/home2.blade.php on line 60
+[13-Sep-2023 06:18:35 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/hostrareorg/public_html/bttexweb.hostrare.org/application/resources/views/frontend/home2.blade.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/hostrareorg/public_html/bttexweb.hostrare.org/application/resources/views/frontend/home2.blade.php on line 61
+[13-Sep-2023 06:19:59 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/hostrareorg/public_html/bttexweb.hostrare.org/application/resources/views/frontend/home2.blade.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/hostrareorg/public_html/bttexweb.hostrare.org/application/resources/views/frontend/home2.blade.php on line 61
